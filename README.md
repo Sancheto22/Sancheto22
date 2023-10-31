@@ -23,4 +23,21 @@
   * scikit-learn
   * seaborn
   * matplotlib
-
+* SQL:
+  * join
+  * window functions
+  * subqueries
+  * grouping
+  * agg
+* Визуализация:
+  * power bi
+  * redash
+  * python libraries
+* AB:
+  * проверка статистических гипотез
+  * расчет МДЕ
+  * расчет чуствительности
+  * размер выборки для нужного эффекта
+  * линеризация для ratio-метрик
+  * увеличение чуствительности (cuped, стратификация)
+  * Propensity Score Matching для сбалансирования группы A и B
